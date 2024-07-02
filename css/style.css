@@ -1,4 +1,12 @@
 body {
+    background: linear-gradient(to right, #dbedfa, #897492); /* Gradient background */
+    font-family: Arial, sans-serif; /* Font style */
+    color: #fff; /* Text color */
+    text-align: center; /* Center-align text */
+    padding: 20px; /* Add some padding for content */
+}
+
+body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
     color: #333;
